@@ -1,1 +1,1 @@
-# This is one of the first projects ontaining Hello World text.
+# This is one of the first projects containing Hello World text.
